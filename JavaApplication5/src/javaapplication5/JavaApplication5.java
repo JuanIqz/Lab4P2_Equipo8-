@@ -16,8 +16,7 @@ public class JavaApplication5 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-<<<<<<< HEAD
-=======
+
        Scanner pd= new Scanner(System.in);
        boolean bandi=true;
         while (bandi) {            
@@ -56,7 +55,6 @@ public class JavaApplication5 {
                 break;
         }
         }
->>>>>>> 1feceaea15ce92ae94db9efdcb10432af213b80d
         
     }
     
